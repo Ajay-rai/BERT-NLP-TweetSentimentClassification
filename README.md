@@ -21,13 +21,18 @@ Cleaned the raw text tweets.
 ## EDA
 Plotted distribution of tweets before and after covid. Also observed the average words used per tweets:
 
-![alt text](https://github.com/Ajay-rai/BERT-NLP-TweetSentimentClassification/blob/master/img/price_histogram.PNG)
-![alt text](https://github.com/Ajay-rai/BERT-NLP-TweetSentimentClassification/blob/master/img/model_dist.PNG)
+![alt text](https://github.com/Ajay-rai/BERT-NLP-TweetSentimentClassification/blob/main/img/covidtweets.PNG)
+![alt text](https://github.com/Ajay-rai/BERT-NLP-TweetSentimentClassification/blob/main/img/Wordstweets.PNG)
 
 ## Model Building (model_building.ipnyb)
 * Used transformers to call a pre-trained model from Hugging Face model hub.
 * The pipeline used has an autotokenizer and it's called sentiment-analysis.
 * Trained the model in AWS sagemaker/Kaggle.
+
+![alt text](https://github.com/Ajay-rai/BERT-NLP-TweetSentimentClassification/blob/main/img/pn.PNG)
+![alt text](https://github.com/Ajay-rai/BERT-NLP-TweetSentimentClassification/blob/main/img/pnn.PNG)
+![alt text](https://github.com/Ajay-rai/BERT-NLP-TweetSentimentClassification/blob/main/img/hashtags.PNG)
+![alt text](https://github.com/Ajay-rai/BERT-NLP-TweetSentimentClassification/blob/main/img/content.PNG)
 
 ## Conclusion and Future Recommendation
 * The sentiment of public is almost equally divided between positive and negative for 'work form home'.
