@@ -7,6 +7,9 @@
 ## Code and Resources Used
 * **Python Version:** 3.8.5
 * **Packages:** pandas, tensorflow, transformers, matplotlib, seaborn, snscrape, nltk
+* * **GitHub Repo Ref1:** https://github.com/debnsuma/Intro-Transformer-BERT/blob/main/BERT-Disaster-Tweets-Prediction.ipynb
+* * **GitHub Repo Ref2:** https://github.com/Rohan2002/BERT-natural-disaster-tweet-prediction/tree/master/lib
+* * **Medium article Ref:** https://python.plainenglish.io/scraping-tweets-using-snscrape-and-building-sentiment-classifier-13811dadd11d
 
 ## Web Scraping (snscrape_tweets.ipynb)
 Scraped over 700,000 tweets using snscrape. 27 attributes were there, out of which only following were important.
