@@ -19,7 +19,7 @@ Cleaned the raw text tweets.
 * Removed hashtags, @username and other non english words and punctuations from tweets.
 
 ## EDA
-Plotted distribution of tweets before and after covid. Also observed the average words used per tweets:
+Plotted distribution of tweets (#WFH) before and after covid. Also observed the average words used per tweets:
 
 ![alt text](https://github.com/Ajay-rai/BERT-NLP-TweetSentimentClassification/blob/main/img/covidtweets.PNG)
 ![alt text](https://github.com/Ajay-rai/BERT-NLP-TweetSentimentClassification/blob/main/img/Wordstweets.PNG)
