@@ -1,6 +1,6 @@
 # BERT-NLP-TweetSentimentClassification: Project Overview
 * Determined the sentiment of public towards work from home by analyzing tweets.
-* Scraped over 7000,000 tweets using snscrape. Performed text-preprocessing and EDA.
+* Scraped over 700,000 tweets using snscrape. Performed text-preprocessing and EDA.
 * Used AWS sagemaker/kaggle to get the sentiment from a pre-trained model based on DistillBert.
 * Imported the pipeline from Hugging Face model hub.
 
